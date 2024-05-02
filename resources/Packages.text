@@ -1,0 +1,6 @@
+composer require simplesoftwareio/simple-qrcode "~4"
+composer require barryvdh/laravel-dompdf
+composer require symfony/mailgun-mailer symfony/http-client
+
+sweetalert
+html-5-qrcode
